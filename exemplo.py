@@ -1,3 +1,3 @@
 #!/usr/bin/env python3
 
-print('hello world alterado')
+print('aqui irá ter um conflito')
